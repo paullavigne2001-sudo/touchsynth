@@ -59,6 +59,10 @@ Puis active GitHub Pages dans Settings → Pages.
 touchsynth/
 └── index.html   # Application complète (HTML + CSS + JS en un seul fichier)
 └── README.md
+└── manifest.json
+└── sw.js
+└── icon-192.png
+└── icon-512.png
 ```
 
 Tout est dans un seul fichier — pas de dépendances, pas de build step.
