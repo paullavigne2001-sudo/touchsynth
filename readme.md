@@ -28,7 +28,7 @@ Ou déploie sur GitHub Pages en 2 minutes (voir ci-dessous).
 4. Clique **"Add file" → "Upload files"** et dépose `index.html`
 5. Va dans **Settings → Pages**
 6. Sous *Source*, sélectionne **"Deploy from a branch"** → branche `main` → dossier `/ (root)`
-7. Clique **Save** — ton app sera dispo à `https://TON_USERNAME.github.io/touchsynth/`
+7. Clique **Save** — ton app sera dispo à `https://paullavigne2001-sudo.github.io/touchsynth/`
 
 ### Méthode 2 — Git en ligne de commande
 
